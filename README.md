@@ -1,5 +1,7 @@
 # vanilla-native-federation
 
+> **Important!** This project has been migrated to [@topicusonderwijs/vanilla-native-federation](https://github.com/topicusonderwijs/vanilla-native-federation)
+
 Check the full description of native-federation and their mental model on [@softarc/native-federation](https://www.npmjs.com/package/@softarc/native-federation). This library is specifically made for applications that require a small library to (lazy) load micro frontends or webcomponents on HTML pages using native-federation (e.g. PHP, Ruby or Java applications) without the need for a JavaScript framework. 
 
 This library is under [MIT License](./LICENSE.md), follows the native federation mental model and is inspired on [@softarc/native-federation-runtime](https://www.npmjs.com/package/@softarc/native-federation-runtime). 

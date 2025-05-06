@@ -1,3 +1,5 @@
+This project has been migrated to [@topicusonderwijs/vanilla-native-federation](https://github.com/topicusonderwijs/vanilla-native-federation)
+
 ## 0.12.3 - Added type to loadRemoteModule
 - [fix] Added option to type LoadRemoteModule.
 - [fix] Added fallback settings to initEderation function.

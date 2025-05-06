@@ -1,4 +1,4 @@
-Copyright (c) 2024 Aukevanoost
+Copyright (c) 2025 Aukevanoost
 
 Based on [@softarc/native-federation-runtime](https://www.npmjs.com/package/@softarc/native-federation-runtime)
 
